@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola, seja bem-vindo 👋
 
 <!--
 **GuiRocha11/GuiRocha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
