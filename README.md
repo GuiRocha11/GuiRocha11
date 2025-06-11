@@ -1,6 +1,7 @@
-# Olá, me chamo Guilherme Rocha 👨‍💻
+## Olá, me chamo Guilherme Rocha 👨‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP
+
 📚 Estou aprendendo sobre MySQL e Java!
 
 ---
@@ -39,8 +40,8 @@
   </a>
 </div>
 
---
+---
 
 <div align="center">
-  👨‍💻 "Não se pode criar experiência, é preciso passar por ela." – Albert Camus
+  🕴 "Não se pode criar experiência, é preciso passar por ela." – Albert Camus
 </div>
