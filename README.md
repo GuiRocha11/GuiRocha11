@@ -4,7 +4,6 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- PostgreSQL 🐘
 - MySQL 🐬
 - Java ☕
 
