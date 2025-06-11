@@ -1,12 +1,9 @@
-# Olá, me chamo [Kelwin Eduardo] 👨‍💻
+# Olá, me chamo [Guilherme Rocha] 👨‍💻
 
-📚 Estou aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL e Java! 🚀
+📚 Estou aprendendo mais sobre PostgreSQL, MySQL e Java! 🚀
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- HTML5 🌐
-- CSS3 🎨
-- JavaScript ⚡
 - PostgreSQL 🐘
 - MySQL 🐬
 - Java ☕
@@ -15,8 +12,6 @@
 
 | Tecnologia | Nível       | Conhecimento |
 |------------|-------------|--------------|
-| HTML5      | 🎓 Junior | 👨‍💻 Sites Responsivos |
-| CSS3       | 🎓 Junior | 🎨 Layouts e Animações |
 | Java       | 🎓 Junior | ☕ Desenvolvimento de Aplicações |
 | MySQL      | 🎓 Junior | 🐬 Gestão de Banco de Dados |
 
@@ -28,6 +23,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-ant%C3%B4nio-da-silva-a23668334/" target="_blank">
+  <a href="https://www.linkedin.com/in/guirochadev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+"_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
