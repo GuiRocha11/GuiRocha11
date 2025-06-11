@@ -1,6 +1,6 @@
 # Olá, me chamo Guilherme Rocha 👨‍💻
 
-📚 Estou aprendendo mais sobre PostgreSQL, MySQL e Java! 🚀
+📚 Estou aprendendo mais sobre MySQL e Java! 🚀
 
 ## 🛠️ Tecnologias que estou aprendendo
 
