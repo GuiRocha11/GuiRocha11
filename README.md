@@ -38,6 +38,9 @@
   <a href="https://www.instagram.com/rochazgui/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="guirochadev1@gmail.com/"target="_blank">
+    <img src="https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=Email&logoColor=white%22" alt="Gmail">
+  </a>
 </div>
 
 ---
