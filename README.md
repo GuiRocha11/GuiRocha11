@@ -1,4 +1,4 @@
-## Olá, me chamo Guilherme Rocha 👨‍💻
+## Salve, Eu sou o Guilherme Rocha 👨🏽‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP
 
@@ -26,18 +26,20 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRocha11&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/GuiRocha11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiRocha11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRocha11&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+    
+---
 
 ## 🔗 Conecte-se comigo
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guirochadev/"target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/rochazgui/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <a href="https://www.linkedin.com/in/guirochadev/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/rochazgui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ---
