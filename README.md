@@ -1,4 +1,4 @@
-## Salve, Eu sou o Guilherme Rocha 👨🏽‍💻
+## Ola, Eu sou o Guilherme Rocha 👨🏽‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP
 
