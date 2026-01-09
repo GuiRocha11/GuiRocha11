@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Guilherme Rocha 👨🏽‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no CEDUP
+🎓 Estudante de Desenvolvimento de Sistemas
 
-📚 Estou aprendendo sobre MySQL e Java!
+📚 Estou aprendendo sobre desenvolvimento Backend em java!
 
 ---
 
