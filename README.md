@@ -2,7 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas
 
-📚 Estou aprendendo sobre desenvolvimento Backend em java!
+📚 Atualmente estou focado em desenvolvimento Backend em java!
 
 ---
 
@@ -20,7 +20,6 @@
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
