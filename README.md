@@ -1,8 +1,8 @@
-## Olá, Eu sou o Guilherme Rocha 👨🏽‍💻
+## Olá 👋, Eu sou o Guilherme Rocha 👨🏽‍💻
 
-🎓 Estudante de Desenvolvimento de Sistemas
+🎓 Técnico em Desenvolvimento de Sistemas
 
-📚 Atualmente estou focado em desenvolvimento Backend em java!
+📚 Atualmente estou focado em desenvolvimento Backend em Java, Spring Boot, criação de APIs REST e integração com banco de dados!
 
 ---
 
@@ -14,11 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-
-### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas
@@ -30,10 +27,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/GuiRocha11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRocha11&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiRocha11&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRocha11&layout=compact&theme=tokyonight" />
+</p>
     
 ---
 
